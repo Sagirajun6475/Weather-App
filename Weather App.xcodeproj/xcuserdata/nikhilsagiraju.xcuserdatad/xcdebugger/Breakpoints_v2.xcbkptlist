@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C5765D23-46EB-4AB0-9686-CC845CB65ACF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CB61171-6C60-4A2C-B9E2-A6C362AA0DD2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather AppUITests/Weather_AppUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "Weather_AppUITests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AFA161A-D8C4-4609-89EA-44C7E70851B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather AppUITests/Weather_AppUITestsLaunchTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "testLaunch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4AFA161A-D8C4-4609-89EA-44C7E70851B8 - d4188748ddd41c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_AppUITests.WeatherAppUITestsLaunchTests.testLaunch() throws -&gt; ()"
+                  moduleName = "Weather AppUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhilvarma/Downloads/Weather%20App/Weather%20AppUITests/Weather_AppUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "4AFA161A-D8C4-4609-89EA-44C7E70851B8 - d4188748ddd41e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_AppUITests.WeatherAppUITestsLaunchTests.testLaunch() throws -&gt; ()"
+                  moduleName = "Weather AppUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhilvarma/Downloads/Weather%20App/Weather%20AppUITests/Weather_AppUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "370">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
